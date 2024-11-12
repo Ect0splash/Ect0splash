@@ -1,7 +1,7 @@
 # MAXIME BOMMERT
 
 **Contact Information:**
-- Age: 31
+- Age: 32
 - Driving License: Permis B
 
 ## Expériences
