@@ -1,5 +1,3 @@
-![alt tag](https://cloud.githubusercontent.com/assets/3968618/9588666/d029268e-5029-11e5-8a0c-41ecd04207f4.png)
-
 # MAXIME BOMMERT
 
 **Contact Information:**
@@ -10,11 +8,11 @@
 
 ### Mak3 Me Studio, Saint-Hilaire-de-Riez
 **2018/2023**
-- Informatique, vente d’impression 3D et gravure laser.
+- Informatique, Impression 3D et gravure laser.
 
 ### OSI, Saint-Hilaire-de-Riez
 **2017/2018**
-- Développement d’un projet web en groupe avec la suite Webdev.
+- Développement de projets web en groupe avec la suite Webdev.
 
 ### Directeur Général, Villepinte, Delta-Origins
 **2016**
@@ -41,6 +39,9 @@
 - Réparation de tous produits défectueux. (Produit Samsung exclusivement).
 
 ## Études
+
+### Formation TSSR, Wild Code school
+**2024/2025**
 
 ### Formation Dev web et application PCSOFT
 **2017/2019**
