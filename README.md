@@ -7,8 +7,8 @@
 ## Expériences
 
 ### Mak3 Me Studio, Saint-Hilaire-de-Riez
-**2018/2023**
-- Informatique, Impression 3D et gravure laser.
+**2018/2024**
+- Developpement web, informatique, Impression 3D et gravure laser.
 
 ### OSI, Saint-Hilaire-de-Riez
 **2017/2018**
@@ -26,17 +26,6 @@
 - Installation et dépannage de matériels informatiques.
 - Mise en place d’une maintenance préventive.
 
-### Agent de suivi, Givrand, Ovive
-**2015/2016**
-- Suivi du bon fonctionnement de la station.
-- Relèves des données, analyses.
-
-
-### Technicien, Evry, Kube Design
-**2014**
-- Création, montage, installation et sécurisation des supports de présentation des produits.
-- Déplacement pour installation des supports et des produits.
-- Réparation de tous produits défectueux. (Produit Samsung exclusivement).
 
 ## Études
 
@@ -64,7 +53,7 @@
 ## Références
 
 - **Musicien, compositeur:** Fl-Studio, Logic-pro
-[Logic Pro - Apple (FR)](https://www.apple.com/fr/logic-pro/)
+[Logic Pro - Apple (FR)](https://soundcloud.com/ectosplash/popular-tracks)
 - **Pratique du tir à l’arc, tir de précision:** Association
-- **Compétences techniques:** HTML, CSS, PHP, Wlangage - Webdev/Windev/Windev mobile
+- **Compétences techniques:** Bash, Powershell, HTML, CSS, javascript, Wlangage (Webdev/Windev/Windev mobile)
 - **Création et impression 3D:** Cura, Meshmixer, Tinkercad
