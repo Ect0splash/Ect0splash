@@ -1,16 +1,16 @@
 # 👋 Salut, moi c’est **Maxime Bommert** — alias **EctoSplash**
 
 🎨 Créateur d’univers visuels et numériques, je construis des passerelles entre **IA, art et automation**.  
-Je travaille sur des projets mêlant créativité, musique et technologie : **Sora**, **Seedream**, **Mak3MyVision**, et **Judge Core**.
+Je travaille sur des projets mêlant créativité, musique et technologie : **Sora**, **Seedream**, **Mak3 My Vision**, et **Judge Core**.
 
 ---
 
 ## 🚀 Projets actuels
 
-### 🧠 [Judge Core](https://github.com/Ect0splash/Judge-Core)
+### 🧠 Judge Core (bientôt)
 > Une IA coach créatif, capable de t’assister dans la création de vidéos, musiques et projets automatisés.
 
-### 🎭 [Sora Poop](https://github.com/Ect0splash/SoraPoop)
+### 🎭 Sora Poop (bientôt)
 > Un laboratoire d’humour et d’expérimentation IA — là où l’absurde rencontre le génie.
 
 ### 🔮 [Mak3 My Vision](https://www.instagram.com/mak3_my_vision/)
