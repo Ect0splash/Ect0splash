@@ -29,7 +29,7 @@ Je travaille sur des projets mêlant créativité, musique et technologie : **So
 ## 🌐 Liens & Réseaux
 🎨 **Instagram :** [@ecto.splash](https://www.instagram.com/ecto.splash)  
 🎥 **Mak3 My Vision :** [@mak3_my_vision](https://www.instagram.com/mak3_my_vision)  
-🧱 **3D Models :** [Mak3 Me Studio sur Cults3D](https://cults3d.com/fr/utilisateurs/Mak3_Me_Studio/fichiers-3d)
+🧱 **3D Models :** [Mak3 Me Studio sur Cults3D](https://cults3d.com/fr/utilisateurs/Mak3_Me_Studio/fichiers-3d) 
 🧩 **Linktree :** [linktr.ee/ectosplash](https://linktr.ee/ectosplash)  
 💻 **GitHub :** [github.com/Ect0splash](https://github.com/Ect0splash)
 
