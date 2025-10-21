@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Ect0splash/Ect0splash/blob/main/bannie%CC%80re.png?raw=true" alt="EctoSplash Banner" width="100%">
+</p>
+
+
 # 👋 Salut, moi c’est **Maxime Bommert** — alias **EctoSplash**
 
 🎨 Créateur d’univers visuels et numériques, je construis des passerelles entre **IA, art et automation**.  
