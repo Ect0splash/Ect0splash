@@ -5,6 +5,9 @@
 
 # 👋 Salut, moi c’est **Maxime Bommert** — alias **EctoSplash**
 
+DevOps & Architecte Systèmes passionné par l’automatisation intelligente et la convergence entre IA, infrastructure et développement.
+J’explore la frontière entre le code, la mémoire et la logique pour créer des systèmes capables d’évoluer d’eux-mêmes.
+
 🎨 Créateur d’univers visuels et numériques, je construis des passerelles entre **IA, art et automation**.  
 Je travaille sur des projets mêlant créativité, musique et technologie : **Sora**, **Seedream**, **Mak3 My Vision**, et **Judge Core**.
 
