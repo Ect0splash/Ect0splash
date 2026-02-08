@@ -2,7 +2,7 @@
 
 🧠 Architecte numérique • DevOps • IA locale • Automatisation intelligente  
 
-Je construis **Judge**, un système modulaire open-source qui agit comme  
+Je construis **Judge**, un système modulaire qui agit comme  
 un **compagnon technique intelligent** :  
 backup, auto-repair, IA locale (Ollama), analyse, mémoire, reporting.
 
