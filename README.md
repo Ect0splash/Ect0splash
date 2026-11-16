@@ -1,45 +1,27 @@
-# 👋 Maxime Bommert — EctoSplash
+# 👾 Ect0splash
 
-🧠 DevOps / Automatisation  
-🤖 IA locale & agents  
-🧩 Architecture systèmes & écosystèmes modulaires  
+**Développeur · Architecte numérique · DevOps**
 
----
+Je conçois et développe des logiciels, des outils d'automatisation et des environnements techniques adaptés à des besoins concrets.
 
-## 🚀 Ce que je construis
+Mon approche associe développement, architecture système et intégration raisonnée de l'intelligence artificielle, avec une attention particulière portée à la **fiabilité, la modularité et la confidentialité**.
 
-Je développe **Judge**, un projet personnel long terme
-pensé comme :
+## 🛠️ Domaines d'activité
 
-- 🧪 un laboratoire de développement
-- 🧠 un assistant DevOps / SRE local-first
-- 🤖 un framework IA local (Ollama / agents)
-- 🧩 un OS personnel modulaire
+- **Développement logiciel** : applications, interfaces et outils sur mesure.
+- **DevOps & systèmes** : Linux, infrastructure, déploiement et automatisation.
+- **Architecture logicielle** : conception, intégration et maintenabilité.
+- **Intelligence artificielle** : assistance au développement et expérimentation.
+- **Sécurité & qualité** : vérification, traçabilité et maîtrise des opérations.
 
-👉 Vitrine publique :  
-🔗 **Judge-Showcase** → https://github.com/Ect0splash/Judge-Showcase
+## 🧩 Projet en vedette
 
----
+### [JudgeArchitect](https://github.com/Ect0splash/JudgeArchitect-Showcase)
 
-## 🛠️ Axes de compétences
+Un environnement privé de développement et de conception logicielle assistée par intelligence artificielle.
 
-- Automatisation & scripting
-- DevOps / SRE (fiabilité, garde-fous, audit)
-- Architecture modulaire
-- IA locale & intégration responsable
-- Documentation technique lisible
+Le dépôt public présente uniquement la finalité générale du logiciel. Son code et ses composants internes restent privés.
 
 ---
 
-## 🎯 Philosophie
-
-> Comprendre avant d’automatiser.  
-> Sécuriser avant d’accélérer.  
-> Travailler avec l’IA, pas contre elle.
-
----
-
-## 📬 Contact
-
-💼 GitHub / LinkedIn  
-🔒 Accès privé sur demande (recrutement, audit, collaboration)
+*Comprendre avant d'automatiser. Concevoir avec méthode. Garder le contrôle.*
